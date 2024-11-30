@@ -1,2 +1,2 @@
 # myntra-clone
-my myntra project
+My Myntra Project
